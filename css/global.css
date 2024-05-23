@@ -1,0 +1,15 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    min-height: 100vh; 
+    background-color: #F3F3F3;
+}
+.container {
+    max-width: 1170px;
+    box-sizing: border-box;
+    padding: 0 15px;
+    margin: 0 auto;
+    width: 100%;
+}
+
